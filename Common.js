@@ -3,4 +3,4 @@ let Name=(name,age,role)=>{
 }
 Name("bhavanarayana",22,"intern")
 let mybestfriends=["prathyusha","pinky","pandu"]
-export {mybestfriends};
+Module.exports= {mybestfriends};
